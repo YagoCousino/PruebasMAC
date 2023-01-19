@@ -1,0 +1,524 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yago",
+      "surnames": "Cousiño",
+      "title": "Manfred / La Media Inglesa",
+      "description": "**Aprendiendo a crear productos digitales en Manfred después de escalarla y hacerla rentable pasando por Ventas, Hiring interno y Operaciones, entre otros. \"Cuando llegó Yago todo era campo\".**\n\nBuscaba un nuevo estándar en el periodismo deportivo con The Wing. Continúo en la trinchera junto al equipo de La Media Inglesa, un medio de comunicación sobre fútbol inglés basado principalmente en YouTube y Twitch. \n\nSiempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf...",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/05/06/b3b9416c-bf1d-4955-bf8a-f4d06185fad9_1516186062727.1516186062727"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/cousy14"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Infinite Game",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Simon",
+            "surnames": "Sinek",
+            "title": "Author"
+          }
+        ],
+        "summary": "El Juego Infinito (2019) es manual para que los líderes empresariales construyan empresas que durarán generaciones. Los precios de las acciones se tienen en cuenta para determinar el rendimiento de una empresa. En los medios, un desfile interminable de analistas de Wall Street le dice a la gente cuándo comprar y cuándo vender. Pero la fortaleza de una empresa está determinada por algo más que el precio de sus acciones en un día determinado. Si un director ejecutivo solo se preocupa por el precio de las acciones y por hacer felices a los accionistas, está optando por pan para hoy y hambre para mañana. Nuestro trabajo como líderes es tener en cuenta todo el contexto y la visión a largo plazo de la empresa. "
+      },
+      {
+        "title": "Inspired",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Marty",
+            "surnames": "Cagan",
+            "title": "Author"
+          }
+        ],
+        "summary": "En “Inspired”, nos cuenta los principios que hacen que algunos productos se destaquen y sean un gran éxito en el mercado y comparte las mejores prácticas de las compañías más grandes de tecnología en Silicon Valley. ¿Es un empresario, diseñador o sueña con lanzar un producto tecnológico? "
+      },
+      {
+        "title": "Lenny's newsletter",
+        "type": "other",
+        "URL": "https://www.lennysnewsletter.com/",
+        "authors": [
+          {
+            "name": "Lenny",
+            "surnames": "Rachitsky",
+            "title": "Author"
+          }
+        ],
+        "summary": "A weekly advice column about product, growth, working with humans, and anything else that’s stressing you out about work\n\n"
+      },
+      {
+        "title": "Podkast de K Fund",
+        "type": "other",
+        "URL": "https://open.spotify.com/show/4fIVIKsz8V2jGDdZ8CTDBk",
+        "authors": [
+          {
+            "name": "Jaime",
+            "surnames": "Novoa",
+            "title": "Author"
+          }
+        ],
+        "summary": "El PodKast de K Fund es un podcast sobre startups, emprendedores y Venture Capital. Cada mes publicamos entrevistas con fundadores de empresas tecnológicas y los inversores que las apoyan."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Apr 2017 - Oct 2017 "
+        },
+        "roles": [
+          {
+            "name": "Vice President",
+            "startDate": "2022-11-29",
+            "challenges": [
+              {
+                "description": "Vice President"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "May 2015 - Oct 2017 "
+        },
+        "roles": [
+          {
+            "name": "Blog Manager",
+            "startDate": "2022-11-29",
+            "challenges": [
+              {
+                "description": "Blog Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jan 2021 - Present "
+        },
+        "roles": [
+          {
+            "name": "Product Manager",
+            "startDate": "2022-11-29",
+            "challenges": [
+              {
+                "description": "Product Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "4 yrs 1 mo"
+        },
+        "roles": [
+          {
+            "name": "Manfred",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Product Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "Manfred Logo.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/07/19/1ea9b608-78c5-4b30-9fd6-c0e2fdfe8af5_manfred-logo.jpg"
+          },
+          "URL": "https://www.getmanfred.com/"
+        },
+        "roles": [
+          {
+            "name": "Junior Product Manager",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Involucrado en el ciclo completo de vida del producto desde la misma concepción del Producto(s) de Manfred hasta el detalle de la entrega. Todo esto, siendo clave en la formación del equipo técnico y la construcción de la base que nos ha permitido lanzar nuestro primer producto y crecer. Empleamos un enfoque de entrega de valor continuo bajo el cual estamos desplegando y entregando mejoras a nuestros usuarios con frecuencia (casi) semanal. \n\nSiempre bajo el paraguas de los miembros más Senior del equipo y con el agilismo por bandera."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Media Inglesa "
+        },
+        "roles": [
+          {
+            "name": "Business Developer",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Design of the project's revenue streams, from general strategy to its applications. Emphasis in sponsorships, automation of the processes of the shop and the creation of digital and on-site events."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Media Inglesa",
+          "image": {
+            "alt": "lEs7M9t1_400x400.jpeg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/90117a6a-dd4d-4b18-ac8e-5f63bc2eda88_les7m9t1_400x400.jpeg"
+          },
+          "URL": "https://lamediainglesa.com"
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de Negocio",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "Diseño de sistema de ingresos para el proyecto, desde la estrategia hasta sus aplicaciones y vías de obtención. Énfasis en patrocinios, automatización de procesos de la tienda y creación de eventos físicos y digitales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time"
+        },
+        "roles": [
+          {
+            "name": "Scout - Operations - Business Development - (former)Minority Partner",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Scout - Operations - Business Development - (former)Minority Partner"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "Manfred Logo.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/07/08/3412b1c2-4f4e-4238-8d0e-094138096c9a_manfred-logo.jpg"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Scout - Operaciones - Desarrollo de Negocio - (ex)Socio Minoritario",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "El primer empleado en llegar a Manfred cuando éramos dos personas y media y \"todo era campo\".\n\nImpacto en el ciclo completo del diseño de nuestros servicios y la \"arquitectura\" de apps \"no-code\" que nos ha permitido montar una máquina de facturación de 7 cifras en meses. Clave en el crecimiento desde dos personas a jornada completa hasta 34 (y contando), primero enfocándome en la ejecución de ventas y creación del flujo para poder replicar por todo el equipo y luego yéndome hacia labores de Producto y formación.\n\n\"Fuimos a la guerra armados con cucharillas y sobrevivimos\"\n\nEn abril de 2020, en medio de una pandemia, fuimos adquiridos por Sngular."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Wing .es "
+        },
+        "roles": [
+          {
+            "name": "Co Founder",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Co founder of The Wing, a content platform dedicated to inform and follow the NBA. In charge of duties related to marketing, sponsorships, webdesign and other tasks related to being part of the Board of Directors."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Wing",
+          "image": {
+            "alt": "mIG6OL-q_400x400.jpeg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/69e48d9f-eb6f-468a-9294-5aad971481e7_mig6ol-q_400x400.jpeg"
+          },
+          "URL": "https://www.thewing.es"
+        },
+        "roles": [
+          {
+            "name": "Co Founder",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Cofundador de The Wing, una plataforma de contenido dedicada al seguimiento de la NBA. Realización de labores de marketing, sponsor, diseño web y otras tareas enmarcado dentro de la junta. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Locomotora "
+        },
+        "roles": [
+          {
+            "name": "Telegraphist",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": "Developing tasks related to the Marketing and Business area in a dynamic environment. Involved into the creation of the initial projects at La Locomotora. \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "2 yrs 6 mos"
+        },
+        "roles": [
+          {
+            "name": "Start UC3M",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Vice President"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Locomotora",
+          "image": {
+            "alt": "La Locomotora.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/98e23ba5-1f9e-44f7-82c2-55202a6bcfcb_la-locomotora.png"
+          },
+          "URL": "https://www.lalocomotora.com"
+        },
+        "roles": [
+          {
+            "name": "Telegrafista",
+            "startDate": "2017-04-01",
+            "finishDate": "2018-11-30",
+            "challenges": [
+              {
+                "description": "Desarrollando tareas de Marketing y Negocio en un entorno dinámico. Implicado en la creación de los proyectos iniciales de La Locomotora. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FAMAR"
+        },
+        "roles": [
+          {
+            "name": "Becario en Supply Chain",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": "Supporting the Customer Service and Procurement departments, especially focused on the destructions area. Also creating and testing the system of KPIs in the Supply Chain division.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Isigano.com"
+        },
+        "roles": [
+          {
+            "name": "Becario de marketing y relaciones públicas",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-08-31",
+            "challenges": [
+              {
+                "description": "Digital Marketing intern: content creation and social media management; experience with Google Analytics; creation of a newsletter and search for new partnerships. In the offline events and promotion team.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket-Despacho de Auerbach"
+        },
+        "roles": [
+          {
+            "name": "Podcast host and interviewer",
+            "startDate": "2015-06-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Host and director of the biweekly podcast of El Despacho de Auerbach. Interviewer of different NBA personalities such as Jalen Rose, Kenneth Faried or Bruce Bowen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Supreme Group"
+        },
+        "roles": [
+          {
+            "name": "Internship",
+            "startDate": "2014-05-01",
+            "finishDate": "2014-06-30",
+            "challenges": [
+              {
+                "description": "Involved in different departments, from Accounting to Inventory management, with emphasis in Sales and Logistic."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SomosBasket.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Editor",
+            "startDate": "2013-12-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "Organización del equipo de redactores de Los Ángeles Clippers, redacción de distintas noticias y artículos de análisis tanto para Clippers como para la redacción de Boston Celtics."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "TalentUP",
+          "description": "TalentUP es un proyecto que pretende conectar en una plataforma de talento los distintos componentes de la comunidad emprendedora que nos rodea. TalentUP busca unir:\n\n-Startups que ofrezcan puestos de trabajo con candidatos que busquen ocuparlos.\n-Startups o proyectos empresariales que busquen socios o co-founder para empezar dichos proyectos.",
+          "URL": "http://startuc3m.com/talentup/",
+          "image": {
+            "alt": "Jvs52WTX_400x400.jpeg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/9ce70fba-5bdb-4601-9cae-29d6c7ff444d_jvs52wtx_400x400.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-10-01",
+            "finishDate": "2017-09-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Exchange Program Business Administration",
+        "startDate": "2015-01-01",
+        "finishDate": "2016-12-31",
+        "institution": {
+          "name": "Texas A&M University",
+          "description": "Actividades y grupos: E-Society (Asociación de emprendedores)\nActividades con la asociación de estudiantes internacionalesActividades y grupos: E-Society (Asociación de emprendedores) Actividades con la asociación de estudiantes internacionales\n\nRealización de un programa de intercambio de un año en Texas A&M University. Asignaturas seleccionadas de las ramas de Marketing, Finanzas y Gestión de RRHH. En ella pude practicar varios deportes e involucrarme en distintas actividades relacionadas con el emprendimiento además de perfeccionar mi nivel de inglés.",
+          "URL": "https://www.linkedin.com/school/texas-a&m-university/",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/7aa676df-b5d6-4aea-9840-37fcaa8b31d6_download.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado ADE en inglés",
+        "startDate": "2013-01-01",
+        "finishDate": "2017-12-31",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "description": "Actividades y grupos: Start UC3MActividades y grupos: Start UC3M\n\nGraduado en Administración de Empresas en inglés en la Universidad Carlos III de Madrid. Énfasis en Marketing y Emprendimiento. ",
+          "URL": "https://www.linkedin.com/school/universidad-carlos-iii-de-madrid/",
+          "image": {
+            "alt": "foMQElzn_400x400.jpeg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/6aacf2d9-245c-4c98-9638-66f9988034b2_fomqelzn_400x400.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Primaria, ESO, Bachillerato de Ciencias Sociales",
+        "startDate": "2001-01-01",
+        "finishDate": "2013-12-31",
+        "institution": {
+          "name": "Colegio Apóstol Santiago Vigo",
+          "description": "",
+          "URL": "",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/06/15/a5139e8e-01ea-4e39-8a62-1fc983d543f0_download-(1).png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Amplitude",
+          "type": "technology"
+        },
+        {
+          "name": "Google Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Mixpanel",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Brand Design"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
